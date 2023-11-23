@@ -1,8 +1,3 @@
-Name = Sarvesh Satish Patil
-Roll NO = 194025
-
-
-
 
 Project Name = Financial Website (for stock analysis)
 Website Name = FundaTech
